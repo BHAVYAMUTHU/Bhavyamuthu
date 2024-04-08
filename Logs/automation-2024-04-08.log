@@ -1,0 +1,61 @@
+15:30:21.956 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+15:30:21.967 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+15:30:21.967 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+15:30:21.968 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+15:30:21.970 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+15:30:21.972 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+15:30:21.973 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+15:30:21.975 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+15:30:21.975 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+15:30:21.976 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+15:30:21.977 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+15:30:21.977 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+15:30:21.979 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+15:30:22.195 [main] INFO  factory.BaseClass - Close the browser
+15:30:22.195 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:30:25.212 [main] INFO  factory.BaseClass - ============Scenario started============
+15:30:25.213 [main] INFO  factory.BaseClass - Launch the browser
+15:30:36.161 [main] INFO  factory.BaseClass - User is on the home page
+15:30:37.604 [main] INFO  factory.BaseClass - Close the browser
+15:30:37.604 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:30:39.784 [main] INFO  factory.BaseClass - ============Scenario started============
+15:30:39.784 [main] INFO  factory.BaseClass - Launch the browser
+15:30:50.542 [main] INFO  factory.BaseClass - User is on the home page
+15:30:50.953 [main] INFO  factory.BaseClass - Select upcoming bikes
+15:30:55.457 [main] INFO  factory.BaseClass - Redirected to the Upcoming Bikes page
+15:30:55.796 [main] INFO  factory.BaseClass - Close the browser
+15:30:55.797 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:30:58.660 [main] INFO  factory.BaseClass - ============Scenario started============
+15:30:58.660 [main] INFO  factory.BaseClass - Launch the browser
+15:31:10.134 [main] INFO  factory.BaseClass - Select upcoming bikes
+15:31:17.818 [main] INFO  factory.BaseClass - Select the manufacturer dropdown
+15:31:18.208 [main] INFO  factory.BaseClass - Able to see the list of bike models in dropdown
+15:31:18.439 [main] INFO  factory.BaseClass - Close the browser
+15:31:18.439 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:31:21.134 [main] INFO  factory.BaseClass - ============Scenario started============
+15:31:21.134 [main] INFO  factory.BaseClass - Launch the browser
+15:31:32.712 [main] INFO  factory.BaseClass - Select upcoming bikes
+15:31:42.025 [main] INFO  factory.BaseClass - Select the manufacturer dropdown
+15:31:42.596 [main] INFO  factory.BaseClass - Select honda in manufacturer dropdown
+15:31:42.596 [main] INFO  factory.BaseClass - Select honda bikes
+15:31:44.987 [main] INFO  factory.BaseClass - Verify the navigation
+15:31:45.221 [main] INFO  factory.BaseClass - Close the browser
+15:31:45.222 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:31:48.214 [main] INFO  factory.BaseClass - ============Scenario started============
+15:31:48.214 [main] INFO  factory.BaseClass - Launch the browser
+15:32:04.011 [main] INFO  factory.BaseClass - User is on the home page
+15:32:04.427 [main] INFO  factory.BaseClass - Verify the search box
+15:32:04.969 [main] INFO  factory.BaseClass - Enter the upcoming honda bikes
+15:32:06.482 [main] INFO  factory.BaseClass - Close the browser
+15:32:06.482 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:32:09.328 [main] INFO  factory.BaseClass - ============Scenario started============
+15:32:09.329 [main] INFO  factory.BaseClass - Launch the browser
+15:32:17.530 [main] INFO  factory.BaseClass - User is on the used cars page
+15:32:25.456 [main] INFO  factory.BaseClass - Click on Read more option
+15:32:25.750 [main] INFO  factory.BaseClass - Display the popular models in chennai
+15:32:25.827 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+15:32:25.827 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+15:32:25.829 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+15:32:25.829 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+15:32:25.830 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+15:32:25.830 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'

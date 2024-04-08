@@ -1,0 +1,53 @@
+15:32:25.830 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+15:32:25.834 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+15:32:25.836 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+15:32:25.837 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+15:32:25.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+15:32:25.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+15:32:25.839 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+15:32:25.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+15:32:25.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+15:32:25.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+15:32:25.844 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+15:32:26.043 [main] INFO  factory.BaseClass - Close the browser
+15:32:26.043 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:32:28.136 [main] INFO  factory.BaseClass - ============Scenario started============
+15:32:28.136 [main] INFO  factory.BaseClass - Launch the browser
+15:32:40.065 [main] INFO  factory.BaseClass - User is on the home page
+15:32:40.527 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+15:32:41.083 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+15:32:41.534 [main] INFO  factory.BaseClass - Close the browser
+15:32:41.535 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:32:43.791 [main] INFO  factory.BaseClass - ============Scenario started============
+15:32:43.791 [main] INFO  factory.BaseClass - Launch the browser
+15:33:11.911 [main] INFO  factory.BaseClass - User is on the home page
+15:33:12.383 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+15:33:12.942 [main] INFO  factory.BaseClass - Mouse over used cars dropdown
+15:34:32.267 [main] INFO  factory.BaseClass - Redirected to the Used cars in chennai page
+15:34:32.458 [main] INFO  factory.BaseClass - Close the browser
+15:34:32.459 [main] INFO  factory.BaseClass - ============Scenario Ended============
+15:34:35.382 [main] INFO  factory.BaseClass - ============Scenario started============
+15:34:35.382 [main] INFO  factory.BaseClass - Launch the browser
+15:35:03.493 [main] INFO  factory.BaseClass - User is on the used cars page
+15:35:34.873 [main] INFO  factory.BaseClass - Click on home page link
+15:35:43.087 [main] INFO  factory.BaseClass - Navigate to the home page
+15:35:45.439 [main] INFO  factory.BaseClass - Close the browser
+15:35:45.439 [main] INFO  factory.BaseClass - ============Scenario Ended============
+16:41:52.870 [main] INFO  factory.BaseClass - ============Scenario started============
+16:41:52.874 [main] INFO  factory.BaseClass - Launch the browser
+16:46:11.915 [main] INFO  factory.BaseClass - User is on the home page
+16:46:20.180 [main] INFO  factory.BaseClass - Close the browser
+16:46:20.180 [main] INFO  factory.BaseClass - ============Scenario Ended============
+16:46:22.828 [main] INFO  factory.BaseClass - ============Scenario started============
+16:46:22.828 [main] INFO  factory.BaseClass - Launch the browser
+16:46:30.274 [main] INFO  factory.BaseClass - User opens zigwheels site
+16:46:32.925 [main] INFO  factory.BaseClass - Click the Login button
+16:46:39.510 [main] INFO  factory.BaseClass - Clicks on sign in with Google
+16:46:48.104 [main] INFO  factory.BaseClass - Close the browser
+16:46:48.105 [main] INFO  factory.BaseClass - ============Scenario Ended============
+16:46:51.126 [main] INFO  factory.BaseClass - ============Scenario started============
+16:46:51.126 [main] INFO  factory.BaseClass - Launch the browser
+16:46:57.003 [main] INFO  factory.BaseClass - Close the browser
+16:46:57.003 [main] INFO  factory.BaseClass - ============Scenario Ended============
+16:46:58.736 [main] INFO  factory.BaseClass - ============Scenario started============
+16:46:58.737 [main] INFO  factory.BaseClass - Launch the browser
